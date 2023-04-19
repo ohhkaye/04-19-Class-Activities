@@ -3,5 +3,7 @@ body{
 }
 
 p {
-    color: #cc3300;
+    color: blue; 
 }
+
+.redparagraph {color: red;}
